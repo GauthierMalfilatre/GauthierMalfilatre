@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauthierMalfilatre
 - 👀 I’m interested in AI and low-level Languages
-- 🌱 I’m currently learning **C** and **Java**
+- 🌱 I’m currently learning **Haskell** and **Rust**
 - 💞️ I’m looking to collaborate on cool projects like video games and software development
 - 📫 How to reach me : *gauthier.malfilatre@epitech.eu* | *systeme_eratz* (discord)
 - 😄 Pronouns: He/him
