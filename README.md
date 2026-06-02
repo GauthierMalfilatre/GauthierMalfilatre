@@ -31,6 +31,13 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">KronkNet</h3>
+      <br>
+      <p align="center"><i>A simple asynchronous network library in C, built for the zappy epitech project</i></p>
+      <p align="center"><b>Tech:</b> <code>C</code></p>
+      <p align="center"><a href="https://github.com/GauthierMalfilatre/kronknet"><b>View Repository -></b></a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Brainrunner 2</h3>
       <br>
       <p align="center"><i>A simple brainfuck interpreter implementation in C, with extra instructions to add "registers".</i></p>
