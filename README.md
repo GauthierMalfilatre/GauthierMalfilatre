@@ -44,6 +44,7 @@
       <p align="center"><b>Tech:</b> <code>C</code></p>
       <p align="center"><a href="https://github.com/GauthierMalfilatre/Brainrunner2"><b>View Repository -></b></a></p>
     </td>
+  </tr><tr>
     <td width="50%" valign="top">
       <h3 align="center">Blue Numworks</h3>
       <br>
@@ -51,6 +52,7 @@
       <p align="center"><b>Tech:</b> <code>Python</code></p>
       <p align="center"><a href="https://github.com/GauthierMalfilatre/blue-numworks"><b>View Repository -></b></a></p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
